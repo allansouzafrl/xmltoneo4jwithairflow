@@ -12,7 +12,7 @@ First, the script creates a node in the Neo4j database with the data extracted f
 
 ![Schema1](./src/schema.png)
 
-### Print 1
+### Screenshot 1
 
 ![Print 1](./src/print1.png)
 
@@ -21,7 +21,7 @@ MATCH (p:Protein)-[]-(n)
 RETURN p, n
 ```
 
-### Print 2
+### Screenshot 2
 
 ![Print 2](./src/print2.png)
 
